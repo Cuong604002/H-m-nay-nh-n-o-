@@ -1,0 +1,6 @@
+{
+  "name": "Hôm Nay Ăn Gì?",
+  "description": "Khám phá địa điểm ăn uống, vui chơi và nhận gợi ý lịch trình thông minh hàng ngày từ AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
